@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+}
+.friend {
+    background-color: white;
+    padding: .5em;
+}
+.friend h3 {
+    text-transform: uppercase;
+}
+p {
+    padding: .5em;
+}
